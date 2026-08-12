@@ -31,13 +31,12 @@ AI Engineer, AI Software Engineer, and Data Scientist with a focus on building p
 
 ## Currently Learning:
 
-Developing **Mvutano**, working across:
-
 - HTML
 - CSS
 - Java Script
 - Github
 - Git
+- C++
 
 ## Tech Stack
 
