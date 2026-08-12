@@ -1,7 +1,7 @@
 # Nyota Sanda Divine
 
 <p align="center">
-  <img src="./Nkwar.png" alt=1786501462"Timothee Nkwar banner" />
+  <img src="./divine.jpeg" alt=1786501462"Timothee Nkwar banner" />
 </p>
 
 
