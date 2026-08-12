@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <strong>AI Engineer | AI Software Engineer | ML Engineer | Data Scientist</strong>
+  <strong>Computer  Engineer Student </strong>
 </p>
 <p align="center">
   <a href="https://timotheenkwar.me"><img src="https://img.shields.io/badge/Website-timotheenkwar.me-0f172a?style=flat-square&logo=globe&logoColor=white" /></a>
@@ -18,13 +18,6 @@
 
 AI Engineer, AI Software Engineer, and Data Scientist with a focus on building practical AI and machine learning systems from idea to deployment.
 
-My work currently centers on:
-
-- RAG and LLM applications
-- Agentic AI systems
-- Fraud detection use cases
-- Data pipelines and ML deployment
-- Building **Mvutano**, developing its features, data security, compliance, and infrastructure
 
 ## Focus Areas
 
@@ -36,15 +29,15 @@ My work currently centers on:
 - **Scalability & System Design**: designing systems that scale, from architecture to infrastructure decisions
 - **Collaboration**: project management and cross-functional teamwork
 
-## Currently Building: Mvutano
+## Currently Learning:
 
 Developing **Mvutano**, working across:
 
-- Product features and application development
-- Data security and privacy
-- Compliance
-- Infrastructure
-- Scalability and system design
+- HTML
+- CSS
+- Java Script
+- Github
+- Git
 
 ## Tech Stack
 
