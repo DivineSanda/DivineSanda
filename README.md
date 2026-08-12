@@ -1,16 +1,85 @@
-## Hi there 👋
+# Nyota Sanda Divine
 
-<!--
-**DivineSanda/DivineSanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="./Nkwar.png" alt=1786501462"Timothee Nkwar banner" />
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <strong>AI Engineer | AI Software Engineer | ML Engineer | Data Scientist</strong>
+</p>
+<p align="center">
+  <a href="https://timotheenkwar.me"><img src="https://img.shields.io/badge/Website-timotheenkwar.me-0f172a?style=flat-square&logo=globe&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/timothee-nkwar"><img src="https://img.shields.io/badge/LinkedIn-Timothee_Nkwar-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:timotheenkwar@gmail.com"><img src="https://img.shields.io/badge/Email-timotheenkwar@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Location-Nicosia,_Northern_Cyprus-64748b?style=flat-square" />
+</p>
+
+
+AI Engineer, AI Software Engineer, and Data Scientist with a focus on building practical AI and machine learning systems from idea to deployment.
+
+My work currently centers on:
+
+- RAG and LLM applications
+- Agentic AI systems
+- Fraud detection use cases
+- Data pipelines and ML deployment
+- Building **Mvutano**, developing its features, data security, compliance, and infrastructure
+
+## Focus Areas
+
+- **RAG / LLM Systems**: RAG chatbots, vector database optimization, and prompt engineering
+- **Fraud Detection**: machine learning systems for fraud-related use cases
+- **Data Engineering**: ETL pipelines, BigQuery optimization, and real-time streaming
+- **MLOps & Deployment**: end-to-end ML lifecycle, CI/CD automation, monitoring, and alerting
+- **Software & Security Engineering**: application features, data security, compliance, and cloud infrastructure
+- **Scalability & System Design**: designing systems that scale, from architecture to infrastructure decisions
+- **Collaboration**: project management and cross-functional teamwork
+
+## Currently Building: Mvutano
+
+Developing **Mvutano**, working across:
+
+- Product features and application development
+- Data security and privacy
+- Compliance
+- Infrastructure
+- Scalability and system design
+
+## Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=f1f5f9)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=f1f5f9)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=f1f5f9)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=f1f5f9)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=f1f5f9)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=f1f5f9)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF7F0E?style=for-the-badge&logo=xgboost&logoColor=white&labelColor=f1f5f9)
+![LangChain](https://img.shields.io/badge/LangChain-1B65B0?style=for-the-badge&logo=langchain&logoColor=white&labelColor=f1f5f9)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=f1f5f9)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=f1f5f9)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=f1f5f9)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=f1f5f9)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=f1f5f9)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=f1f5f9)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=f1f5f9)
+
+
+
+[![GitHub Streak](https://github-readme-streak-stats-ruby-alpha.vercel.app?user=TimotheeNkwar&theme=transparent&hide_border=true&stroke=a0aec0&ring=cbd5e1&fire=94a3b8&currStreakNum=cbd5e1&sideNums=a0aec0&currStreakLabel=cbd5e1&sideLabels=a0aec0&dates=FFFFFF&t=1786501462)](https://git.io/streak-stats)
+
+## 📊 GitHub Analytics
+
+| Repository Stats | Top Languages |
+| --- | --- |
+| [![GitHub Stats](https://github-readme-stats-s623.vercel.app/api?username=TimotheeNkwar&show_icons=true&theme=transparent&hide_border=true&bg_color=transparent&text_color=64748b&icon_color=94a3b8&title_color=475569&t=1786501462)](https://github.com/anuraghazra/github-readme-stats) | [![Most Used Languages](https://github-readme-stats-s623.vercel.app/api/top-langs?username=TimotheeNkwar&layout=1786501462compact&theme=transparent&hide_border=true&langs_count=1786501462&bg_color=transparent&text_color=64748b&title_color=475569&t=1786501462)](https://github.com/anuraghazra/github-readme-stats) |
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TimotheeNkwar&theme=react-dark&hide_border=true&bg_color=transparent&line=cbd5e1&point=1786501462a0aec0&t=1786501462)
+
+## 🐍 Contributions
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/TimotheeNkwar/TimotheeNkwar/output/github-contribution-grid-snake.svg)
+
+## Collaboration
+
+Open to collaborating on AI/ML projects, RAG and LLM systems, and practical data products.
