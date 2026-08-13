@@ -16,18 +16,23 @@
 </p>
 
 
-AI Engineer, AI Software Engineer, and Data Scientist with a focus on building practical AI and machine learning systems from idea to deployment.
+Full Stack Developer focused on building modern, responsive, and scalable web applications, with expertise in developing complete solutions from front-end design to back-end development and deployment.
 
 
-## Focus Areas
 
-- **RAG / LLM Systems**: RAG chatbots, vector database optimization, and prompt engineering
-- **Fraud Detection**: machine learning systems for fraud-related use cases
-- **Data Engineering**: ETL pipelines, BigQuery optimization, and real-time streaming
-- **MLOps & Deployment**: end-to-end ML lifecycle, CI/CD automation, monitoring, and alerting
-- **Software & Security Engineering**: application features, data security, compliance, and cloud infrastructure
-- **Scalability & System Design**: designing systems that scale, from architecture to infrastructure decisions
-- **Collaboration**: project management and cross-functional teamwork
+
+
+### Focus Areas
+
+* **Full Stack Development** — Building responsive and scalable web applications from front end to back end.
+
+* **Front-End Development** — HTML, CSS, JavaScript, and modern frameworks.
+* **Back-End Development** — APIs, databases, server-side programming, and authentication.
+* **Software Engineering** — Writing clean, maintainable, and efficient code.
+* **AI & Machine Learning** — Exploring how AI can be integrated into software applications.
+* **Web Application Development** — Designing and developing real-world applications from idea to deployment.
+
+
 
 ## Currently Learning:
 
@@ -40,23 +45,7 @@ AI Engineer, AI Software Engineer, and Data Scientist with a focus on building p
 
 ## Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=f1f5f9)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=f1f5f9)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=f1f5f9)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=f1f5f9)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=f1f5f9)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=f1f5f9)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF7F0E?style=for-the-badge&logo=xgboost&logoColor=white&labelColor=f1f5f9)
-![LangChain](https://img.shields.io/badge/LangChain-1B65B0?style=for-the-badge&logo=langchain&logoColor=white&labelColor=f1f5f9)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=f1f5f9)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=f1f5f9)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=f1f5f9)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=f1f5f9)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=f1f5f9)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=f1f5f9)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=f1f5f9)
-
-
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 [![GitHub Streak](https://github-readme-streak-stats-ruby-alpha.vercel.app?user=TimotheeNkwar&theme=transparent&hide_border=true&stroke=a0aec0&ring=cbd5e1&fire=94a3b8&currStreakNum=cbd5e1&sideNums=a0aec0&currStreakLabel=cbd5e1&sideLabels=a0aec0&dates=FFFFFF&t=1786501462)](https://git.io/streak-stats)
 
