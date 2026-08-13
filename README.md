@@ -58,8 +58,7 @@ Full Stack Developer focused on building modern, responsive, and scalable web ap
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TimotheeNkwar&theme=react-dark&hide_border=true&bg_color=transparent&line=cbd5e1&point=1786501462a0aec0&t=1786501462)
 
 ## 🐍 Contributions
-
-![GitHub Contribution Snake](https://raw.githubusercontent.com/TimotheeNkwar/TimotheeNkwar/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Snake](https://raw.githubusercontent.com/DivineSanda/DivineSanda/output/github-contribution-grid-snake-pink.svg)
 
 ## Collaboration
 
